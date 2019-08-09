@@ -4,7 +4,7 @@
 yolo-coco/
 
 # rosbag files are too big
-# rosbag/example.bag
+rosbag/
 
 # ignore output video file
 # images/output.avi
